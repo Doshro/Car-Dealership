@@ -46,3 +46,140 @@
         float: right;
         padding-top: 10px;
     }
+
+    .section2 {
+        background-color: lightpink;
+        margin-top: 10px;
+    }
+    .caption {
+        text-align: center;
+        color: darkgreen;
+        font-size: 35px;
+        margin-top: 10px;
+        padding-top: 20px;
+    }
+    
+    .car-container{
+        display: inline-block;
+        margin: 35px;
+        background-color: lightgrey;
+        height:300px;
+        width: 350px;
+        text-align: center;
+        border-radius: 10px;
+        border: 1px solid black;
+    
+    }
+    
+    .cars {
+        text-align: center;
+        margin: 10px;
+        color: purple;
+        font-size: 20px;
+    }
+    .button {
+        color: darkred;
+        font-size: 20px;
+        padding: 5px;
+    }
+    .section3 {
+        background-color: lightseagreen
+    
+    }
+    
+    .aside{
+        height: 600px;
+        background-color: grey;
+        margin-bottom: 10px;
+    }
+    .head {
+        height: 70px;
+        width: 100%;
+        background-color: lightpink;
+        border: 1px solid black;
+        text-align: center;
+        font-size: 30px;
+        padding-top: 20px;
+    
+    }
+    
+    
+    
+    
+    .left{
+        height: 505px;
+        width: 59%;
+        background-color:white;
+        border-bottom: 1px solid black;
+        float: left;
+        text-align: center;
+        margin-left: 10px;
+        margin-right: 10px;
+    
+        
+        
+    
+    }
+    .chr {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .first{
+        font-size: 25px;
+        color: red;
+    }
+    
+    
+    .right{
+        height: 505px;
+        width: 38.5%;
+        background-color:white;
+        float: right;
+        border-bottom: 1px solid black;
+        text-align: center;
+        margin-right: 10px;
+    }
+    .ftcontainer {
+        background-color: brown;
+        margin-top: 5px;
+        
+    }
+    .foot{
+        float: left;
+        padding-top: 20px;
+        padding-left: 50px;
+    }
+    .foot a{
+        text-decoration: none;
+        color: white;
+        margin: 20px
+        
+    }
+    .contact {
+        float: left;
+        padding-top: 20px;
+        color: white;
+        padding-left: 300px;
+        
+    
+    }
+    .social {
+        text-decoration: none;
+        float: right;
+        padding-top: 30px;
+        padding-right: 70px;
+        
+    }
+    .fa {
+        color: white;
+        padding-right: 20px;
+    }
+    .copy {
+        padding-top: 130px;
+        text-align: center;
+        color: white;
+        font-size: 10px;
+        padding-bottom: 10px;
+    }
+    
+    

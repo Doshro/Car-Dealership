@@ -47,3 +47,91 @@
         float: right;
         padding-top: 10px;
     }
+
+    .main-section{
+        
+        
+        margin: 20px;
+
+
+    }
+    .title {
+        text-align: center;
+        padding-top: 50px;
+        margin-bottom: 50px;
+        color: white;
+        font size: 40px;
+    }
+    
+
+    .contact-form {
+        margin-left:300px;
+        margin-right: 300px;
+        margin-top: 10px;
+        background-color: lightslategrey;
+        border: 2px solid black;
+        border-radius: 10px;
+        box-shadow: 5px lightgrey;
+    }
+
+    label, textarea, input { ;
+        margin-left: 250px; 
+        padding: 20px;
+        border-radius: 10px; 
+
+    }
+    label {
+        color: white;
+    }
+    
+    .google-map{
+        margin: 20px;
+    }
+
+    .ftcontainer {
+        background-color: brown;
+        margin-top: 5px;
+        
+    }
+    .foot{
+        float: left;
+        padding-top: 20px;
+        padding-left: 50px;
+    }
+    .foot a{
+        text-decoration: none;
+        color: white;
+        margin: 20px
+        
+    }
+    .contact {
+        float: left;
+        padding-top: 20px;
+        color: white;
+        padding-left: 300px;
+        
+    
+    }
+    .social {
+        text-decoration: none;
+        float: right;
+        padding-top: 30px;
+        padding-right: 70px;
+        
+    }
+    .fa {
+        color: white;
+        padding-right: 20px;
+    }
+    .copy {
+        padding-top: 130px;
+        text-align: center;
+        color: white;
+        font-size: 10px;
+        padding-bottom: 10px;
+    }
+    
+
+
+
+    

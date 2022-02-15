@@ -46,3 +46,127 @@
         float: right;
         padding-top: 10px;
     }
+
+    .main-section {
+        margin: 10px;
+        
+    }
+    .first {
+        text-align: center;
+
+
+    }
+    .info{
+        font-size: 20px;
+        padding: 20px;
+        color: darkred;
+    }
+    .section2 {
+        height: 300px;
+    }
+
+    .about {
+        color: darkgreen;
+        text-align: center;
+        font-size: 25px;
+        padding-top: 20px;
+    }
+    .service {
+        margin-left: 20px;
+        height: 300px;
+        width: 400px;
+        float: left;
+        border: 1px solid black;
+        
+        
+    }
+    .svr{
+        text-align: center;
+        padding: 20px;
+    }
+    .time{
+        margin-left: 20px;
+        height: 300px;
+        width: 400px;
+        float: left;
+        border: 1px solid black;
+        text-align: center;
+        margin-right: 30px;
+        
+    }
+    .list{
+        padding: 20px;
+        text-align: ;
+    }
+    .hour{
+        padding: 20px;
+    }
+    p{
+        padding-bottom: 5px;
+        text-align: center;
+        
+    }
+    
+
+    .covid{
+        margin-right: 20px;
+        height: 300px;
+        width: 400px;
+        float: right;
+        border: 1px solid black;
+        
+
+    }
+    .contact1{
+        text-align: center;
+        padding: 20px;
+        
+    }
+
+    .ftcontainer {
+        background-color: brown;
+        margin-top: 5px;
+        
+    }
+    .foot{
+        float: left;
+        padding-top: 20px;
+        padding-left: 50px;
+    }
+    .foot a{
+        text-decoration: none;
+        color: white;
+        margin: 20px
+        
+    }
+    .contact {
+        float: left;
+        padding-top: 20px;
+        color: white;
+        padding-left: 300px;
+        
+    
+    }
+    .social {
+        text-decoration: none;
+        float: right;
+        padding-top: 30px;
+        padding-right: 70px;
+        
+    }
+    .fa {
+        color: white;
+        padding-right: 20px;
+    }
+    .copy {
+        padding-top: 130px;
+        text-align: center;
+        color: white;
+        font-size: 10px;
+        padding-bottom: 10px;
+    }
+    
+    
+    
+    
+    

@@ -46,3 +46,158 @@
         float: right;
         padding-top: 10px;
     }
+
+
+    .title {
+        text-align: center;
+        font-size: 40px;
+        color: blue;
+        margin-top: 20px;
+        padding-bottom: 50px;
+    }
+    .main {
+        height:745px;
+    }
+    
+    
+    .credit {
+        
+        
+        text-align: center;
+        background-color: blanchedalmond;
+        border: 1px solid brown;
+        margin-left: 10px;
+        margin-right: 10px;
+        
+    }
+    .credit1 {
+        padding: 10px;
+        
+    }
+
+    .button {
+        padding: 10px;
+        margin-top: 10px;
+        margin-bottom: 5px;
+        background-color: red;
+        color: white;
+        border-radius: 5px;
+
+    }
+
+        
+        
+    
+
+    .div1 {
+        float: left;
+        background-color: aquamarine;
+        margin-left: 10px;
+        border: 1px solid brown;
+        height: 600px;
+        width: 755px;
+        
+    }
+    .div2{
+        float: right;
+        background-color: lightcoral;
+        margin-right: 10px;
+        margin-left: 10px;
+        border: 1px solid brown;
+        height: 600px;
+    }
+    .oiltitle{
+        text-align: center;
+        color: blue;
+        font-size: 30px;
+        padding: 15px;
+    }
+    .oil {
+        padding-left: 120px;
+        padding-top: 30px;
+        padding-bottom: 30px;
+        
+        
+        }
+    .tire {
+        padding: 30px;
+
+    }
+    .rot-info {
+        text-align: center;
+        color: dark yellow;
+        font-size: 30px;
+        padding: 15px;
+    }
+    .last {
+        margin-left: 10px;
+        margin-right: 10px;
+        border: 1px solid brown;
+        margin-bottom: 5px;
+        background-color: darkslategrey;
+        
+        
+    
+    }
+    
+
+    .service {
+        text-align: center;
+        font-size: 30px;
+        color: beige;
+        padding: 30px;
+        margin-bottom: 5px;
+
+
+    }
+
+    .ftcontainer {
+        background-color: brown;
+        margin-top: 5px;
+        
+    }
+    .foot{
+        float: left;
+        padding-top: 20px;
+        padding-left: 50px;
+    }
+    .foot a{
+        text-decoration: none;
+        color: white;
+        margin: 20px
+        
+    }
+    .contact {
+        float: left;
+        padding-top: 20px;
+        color: white;
+        padding-left: 300px;
+        
+    
+    }
+    .social {
+        text-decoration: none;
+        float: right;
+        padding-top: 30px;
+        padding-right: 70px;
+        
+    }
+    .fa {
+        color: white;
+        padding-right: 20px;
+    }
+    .copy {
+        padding-top: 130px;
+        text-align: center;
+        color: white;
+        font-size: 10px;
+        padding-bottom: 10px;
+    }
+    
+    
+
+
+    
+
+    
+
